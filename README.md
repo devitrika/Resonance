@@ -69,7 +69,7 @@
 3. **Prepare Data**
    - Ensure all CSV files (all_posts.csv, liked_posts.csv, etc.) are in the project directory.
   
-4. **Run the Streamlit App 🚀
+4. **Run the Streamlit App** 🚀
 
   ```bash
   streamlit run recommendation.py
